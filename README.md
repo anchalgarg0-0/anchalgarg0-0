@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anchalgarg0-0
 - 👀 I’m interested in exploring and finding my interests. 
 - 🌱 I’m currently learning Web Development and DSA.
-- 💞️ I’m looking to collaborate on anything actually as I am open to learning new things.
+- 💞️ I’m looking to collaborate on anything actually, as I am open to learning new things.
 - 📫 anchal8750@gmail.com
 
 <!---
